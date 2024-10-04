@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Accueil
 description: Bienvenue sur notre questionnaire de perception auditive
 ---
