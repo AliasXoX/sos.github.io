@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Accueil
 description: Bienvenue sur notre questionnaire de perception auditive
 ---
+
+<h1>{{ page.title }}</h1>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at mauris sit amet augue commodo commodo nec sit amet dui. Duis cursus lobortis ex aliquet mattis. Vivamus vestibulum ex mauris, quis aliquet turpis varius ut. Fusce eget elit finibus, semper massa id, tincidunt libero. Etiam fringilla nunc nec tortor hendrerit, ut tincidunt diam varius. Duis tincidunt mauris luctus arcu fringilla vehicula vel nec tellus. Maecenas non felis congue, sagittis mauris non, hendrerit arcu. Aenean vestibulum elit dui, id iaculis nunc consectetur ut. Maecenas congue lorem sed nibh varius dapibus. Cras finibus congue cursus. Fusce posuere erat ac imperdiet tempor. Morbi finibus neque at augue condimentum malesuada. Phasellus felis ligula, mattis nec erat ac, euismod volutpat tortor.
 
